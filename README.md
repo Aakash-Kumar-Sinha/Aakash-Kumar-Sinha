@@ -29,3 +29,32 @@
 - ⚡ Fun fact **Your fun fact here**
 
 ---
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40"/>
+  </a>
+  <a href="https://twitter.com/yourprofile">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40"/>
+  </a>
+  <a href="https://discord.gg/yourserver">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40"/>
+  </a>
+  <a href="https://youtube.com/@yourchannel">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40"/>
+  </a>
+  <a href="https://wa.me/91XXXXXXXXXX">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40"/>
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40"/>
+  </a>
+</div>
+
+---
+
+<br/>
