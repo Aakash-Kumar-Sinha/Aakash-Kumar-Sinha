@@ -23,9 +23,9 @@
 
 - 👯 I’m looking forward to collaborating on open-source projects.
 
-- 🤝 I’m looking for help with **improving my coding skills!**
+- 🤝 I’m looking for help to **improve my coding skills**
 
-- 💬 Ask me about anything, I’m always happy to help!
+- 💬 Ask me about **MERN Stack, DSA, or web development!**
 
 - 📫 How to reach me kaakash228@gmail.com
 
