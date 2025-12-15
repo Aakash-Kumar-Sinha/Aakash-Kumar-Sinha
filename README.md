@@ -25,7 +25,7 @@
 
 - 🤝 I’m looking for help with **xghxh**
 
-- 💬 Ask me about anything, I am happy to help.
+- 💬 Ask me about anything, I’m always happy to help!
 
 - 📫 How to reach me kaakash228@gmail.com
 
