@@ -20,13 +20,13 @@
 
 - 🌱 I’m currently learning **cghjghj**
 
-- 👯 I’m looking to collaborate on **cghx**
+- 👯 I’m looking forward to collaborating on open-source projects.
 
 - 🤝 I’m looking for help with **xghxh**
 
 - 💬 Ask me about anything, I am happy to help.
 
-- 📫 How to reach me **kaakash228@gmail.com*
+- 📫 How to reach me *kaakash228@gmail.com*
 
 - ⚡ Fun fact **yjdgyj**
 
