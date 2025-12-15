@@ -16,13 +16,19 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **Your Project Name**
-- 🌱 Currently learning **Your Tech / Framework**
-- 👯 Open to collaborate on **Web & Open-Source Projects**
-- 🤝 Looking for help with **Your Focus Area**
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
-- 📫 Reach me at **your.email@gmail.com**
-- ⚡ Fun fact **Your fun fact here**
+- 🔭 I’m currently working on **fhxf**
+
+- 🌱 I’m currently learning **cghjghj**
+
+- 👯 I’m looking to collaborate on **cghx**
+
+- 🤝 I’m looking for help with **xghxh**
+
+- 💬 Ask me about anything, I am happy to help.
+
+- 📫 How to reach me **kaakash228@gmail.com*
+
+- ⚡ Fun fact **yjdgyj**
 
 ---
 
