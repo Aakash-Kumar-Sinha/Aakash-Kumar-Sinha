@@ -150,7 +150,7 @@
 
 <h3 align="center">✨ Thanks for visiting my profile ✨</h3>
 
-<div>
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"
     width="100%"/>
 </div>
