@@ -23,7 +23,7 @@
 
 - 👯 I’m looking forward to collaborating on open-source projects.
 
-- 🤝 I’m looking for help with **improving my coding skills**
+- 🤝 I’m looking for help with **improving my coding skills.**
 
 - 💬 Ask me about anything, I’m always happy to help!
 
