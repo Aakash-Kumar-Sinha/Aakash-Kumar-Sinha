@@ -51,6 +51,7 @@
 ## <h3 align="left">🛠️ Tech Stacks</h3>
 
 <table align="center">
+  <!-- Row 1 -->
   <tr>
     <td align="center" width="150" style="padding: 10px;">
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -77,14 +78,15 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" height="60"/>
       </a><br/>CSS3
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="150" style="padding: 10px;">
       <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60" height="60"/>
       </a><br/>Express
     </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
     <td align="center" width="150" style="padding: 10px;">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60"/>
@@ -105,8 +107,46 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/>
       </a><br/>JavaScript
     </td>
+    <td align="center" width="150" style="padding: 10px;">
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"/>
+      </a><br/>MongoDB
+    </td>
+    <td align="center" width="150" style="padding: 10px;">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
+      </a><br/>MySQL
+    </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td align="center" width="150" style="padding: 10px;">
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/>
+      </a><br/>Node.js
+    </td>
+    <td align="center" width="150" style="padding: 10px;">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/>
+      </a><br/>Python
+    </td>
+    <td align="center" width="150" style="padding: 10px;">
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" height="60"/>
+      </a><br/>React
+    </td>
+    <td align="center" width="150" style="padding: 10px;">
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60"/>
+      </a><br/>Tailwind
+    </td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
+
+
 
 
 
