@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aakash-Kumar-Sinha&label=Profile%20views&color=0e75b6&style=flat" alt="Aakash-Kumar-Sinha" />
+  <img src="https://komarev.com/ghpvc/?username=Aakash-Kumar-Sinha&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Aakash-Kumar-Sinha" />
 </div>
 
 <br/>
