@@ -146,6 +146,7 @@
   </tr>
 </table>
 
+<br>
 
 ## <h3 align="left">📈 Github Stats</h3>
 
