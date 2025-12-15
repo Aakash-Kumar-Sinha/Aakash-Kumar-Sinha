@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **MERN Stack projects and DSA practice**
+- 🔭 I’m currently working on **improving my coding skills and learning new technologies**
 
 - 🌱 I’m currently learning **MERN Stack (MongoDB, Express, React, Node.js) and Data Structures & Algorithms (DSA)**
 
