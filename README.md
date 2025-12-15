@@ -37,15 +37,16 @@
 <div>
   <a href="https://www.linkedin.com/in/aakash-k-sinha">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40"/>
-  </a>
+  </a>&emsp;
   <a href="https://twitter.com/@bugfreeaakash">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40"/>
-  </a>
+  </a>&emsp;
   <a href="https://discord.gg/yourserver">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40"/>
+  </a>&emsp;
   <a href="https://wa.me/917488734684">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40"/>
-  </a>
+  </a>&emsp;
   <a href="mailto:kaakash228@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40"/>
   </a>
