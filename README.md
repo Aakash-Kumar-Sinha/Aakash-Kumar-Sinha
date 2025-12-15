@@ -14,6 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=Aakash-Kumar-Sinha&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Aakash-Kumar-Sinha" />
 </div>
 
+
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working on **fhxf**
@@ -30,9 +31,8 @@
 
 - ⚡ Fun fact **yjdgyj**
 
----
 
-## 🌐 Connect With Me
+## <h3 align="left">🌐 Connect With Me</h3> 
 
 <div>
   <a href="https://www.linkedin.com/in/aakash-k-sinha">
@@ -47,4 +47,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40"/></a>
 </div>
 
----
