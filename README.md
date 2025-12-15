@@ -10,13 +10,9 @@
     alt="Typing SVG"/>
 </div>
 
-<br/>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Aakash-Kumar-Sinha&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Aakash-Kumar-Sinha" />
 </div>
-
-<br/>
 
 ## 👨‍💻 About Me
 
@@ -29,8 +25,6 @@
 - ⚡ Fun fact **Your fun fact here**
 
 ---
-
-<br/>
 
 ## 🌐 Connect With Me
 
@@ -56,5 +50,3 @@
 </div>
 
 ---
-
-<br/>
