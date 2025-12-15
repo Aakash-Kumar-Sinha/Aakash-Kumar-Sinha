@@ -26,7 +26,7 @@
 
 - 💬 Ask me about anything, I am happy to help.
 
-- 📫 How to reach me *kaakash228@gmail.com*
+- 📫 How to reach me kaakash228@gmail.com
 
 - ⚡ Fun fact **yjdgyj**
 
