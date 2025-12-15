@@ -23,7 +23,7 @@
 
 - 👯 I’m looking forward to collaborating on open-source projects.
 
-- 🤝 I’m looking for help to **improve my coding skills**
+- 🤝 I’m looking for help to improve my coding skills.
 
 - 💬 Ask me about **MERN Stack, DSA, or web development!**
 
