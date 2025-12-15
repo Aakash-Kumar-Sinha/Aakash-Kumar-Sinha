@@ -29,8 +29,7 @@
 
 - 📫 How to reach me kaakash228@gmail.com
 
-- ⚡ Fun fact **yjdgyj**
-
+- ⚡ Fun fact: I enjoy learning new technologies and turning ideas into real projects
 
 ## <h3 align="left">🌐 Connect With Me</h3> 
 
