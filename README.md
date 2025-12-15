@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **fhxf**
+- 🔭 I’m currently working on **MERN Stack projects and DSA practice**
 
 - 🌱 I’m currently learning **MERN Stack (MongoDB, Express, React, Node.js) and Data Structures & Algorithms (DSA)**
 
