@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="30" width="40"/></a>
   <a href="https://twitter.com/@bugfreeaakash">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="30" width="40"/></a>
-  <a href="https://discord.gg/yourserver">
+  <a href="https://discord.gg/aakashkumarsinha_82833">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="30" width="40"/></a>
   <a href="https://wa.me/917488734684">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="30" width="40"/></a>
