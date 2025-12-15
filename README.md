@@ -53,92 +53,92 @@
 <table align="center">
   <!-- Row 1 -->
   <tr>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 8px;">
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48"/>
       </a><br/>Bootstrap
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 8px;">
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48"/>
       </a><br/>C
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 8px;">
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/>
       </a><br/>C++
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 8px;">
       <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48"/>
       </a><br/>C#
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 8px;">
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48"/>
       </a><br/>CSS3
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 8px;">
       <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48"/>
       </a><br/>Express
     </td>
   </tr>
 
   <!-- Row 2 -->
   <tr>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 8px;">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60"/>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48"/>
       </a><br/>Git
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 8px;">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48"/>
       </a><br/>HTML5
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 8px;">
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48"/>
       </a><br/>Java
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 8px;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48"/>
       </a><br/>JavaScript
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 8px;">
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48"/>
       </a><br/>MongoDB
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 8px;">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48"/>
       </a><br/>MySQL
     </td>
   </tr>
 
   <!-- Row 3 -->
   <tr>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 8px;">
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48"/>
       </a><br/>Node.js
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 8px;">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48"/>
       </a><br/>Python
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 8px;">
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48"/>
       </a><br/>React
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 8px;">
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60"/>
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48"/>
       </a><br/>Tailwind
     </td>
     <td></td>
