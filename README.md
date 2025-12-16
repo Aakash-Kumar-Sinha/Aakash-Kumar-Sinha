@@ -53,9 +53,9 @@
   <!-- Row 1 -->
   <tr>
     <td align="center" width="120" style="padding: 8px;">
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48"/>
-      </a><br/>Bootstrap
+      <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48"/>
+      </a><br/>Java
     </td>
     <td align="center" width="120" style="padding: 8px;">
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -97,9 +97,9 @@
       </a><br/>HTML5
     </td>
     <td align="center" width="120" style="padding: 8px;">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48"/>
-      </a><br/>Java
+      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48"/>
+      </a><br/>Bootstrap
     </td>
     <td align="center" width="120" style="padding: 8px;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
