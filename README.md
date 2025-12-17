@@ -58,9 +58,9 @@
       </a><br/>Java
     </td>
     <td align="center" width="120" style="padding: 8px;">
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48"/>
-      </a><br/>C
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48"/>
+      </a><br/>JavaScript
     </td>
     <td align="center" width="120" style="padding: 8px;">
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -102,9 +102,9 @@
       </a><br/>Bootstrap
     </td>
     <td align="center" width="120" style="padding: 8px;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48"/>
-      </a><br/>JavaScript
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48"/>
+      </a><br/>C
     </td>
     <td align="center" width="120" style="padding: 8px;">
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
