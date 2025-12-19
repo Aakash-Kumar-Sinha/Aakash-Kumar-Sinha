@@ -3,7 +3,7 @@
     width="100%"/>
 </div>
 
-<h1 align="center"> Hello <img src="https://emojis.slackmojis.com/emojis/images/1643514732/7373/hand_wave.gif?1643514732" width="30" /> World,  I'm Aakash Kumar Sinha</h1>
+<h1 align="center"> Hello <img src="https://emojis.slackmojis.com/emojis/images/1643514732/7373/hand_wave.gif?1643514732" width="30" /> World, Welcome to my Profile</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&width=400&lines=Passionate+Full+Stack+Developer;Programming+Enthusiast+from+India;Building+Modern+Web+Applications" 
