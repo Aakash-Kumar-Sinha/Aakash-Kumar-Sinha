@@ -19,13 +19,13 @@
 
 - 🔭 I’m currently working on improving my coding skills and learning new technologies.
 
-- 🌱 I’m currently learning **MERN Stack (MongoDB, Express, React, Node.js) and Data Structures & Algorithms (DSA)**
+- 🌱 I’m currently learning **JAVA Full Stack and Data Structures & Algorithms (DSA)**
 
 - 👯 I’m looking forward to collaborating on open-source projects.
 
 - 🤝 I’m looking for help to improve my coding skills.
 
-- 💬 Ask me about **MERN Stack, DSA, or web development!**
+- 💬 Ask me about **JAVA Full Stack, DSA, or web development!**
 
 - 📫 How to reach me kaakash228@gmail.com
 
