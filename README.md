@@ -28,7 +28,9 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-## <h3 align="left">🛠️ Tech Stacks</h3>
+---
+
+<h3 align="left">🛠️ Tech Stacks</h3>
 
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
