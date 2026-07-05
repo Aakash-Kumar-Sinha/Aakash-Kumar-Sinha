@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C233&width=400&lines=Passionate+Full+Stack+Developer;Programming+Enthusiast+from+India;Building+Modern+Web+Applications"alt="Typing SVG"/>
 </div>
 
-  <h3 align="left">👨‍💻 About Me</h3>
+---
+
+<h3 align="left">👨‍💻 About Me</h3>
 
 - 🔭 I’m currently working on [project name](project link)
 
