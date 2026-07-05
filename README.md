@@ -86,10 +86,12 @@
 
 <h3 align="left">📈 GitHub Stats</h3>
 
-<div data-importer="stats" align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Aakash-Kumar-Sinha&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr&hide_border=true" height="250"/>
-  <img src="https://streak-stats.demolab.com?user=Aakash-Kumar-Sinha&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"/>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aakash-Kumar-Sinha&show_icons=true&theme=tokyonight" height="200"/>
+
+<img src="https://streak-stats.demolab.com?user=Aakash-Kumar-Sinha&theme=tokyonight" height="200"/>
+
 </div>
 
 ---
