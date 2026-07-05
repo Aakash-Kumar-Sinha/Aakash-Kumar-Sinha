@@ -87,8 +87,11 @@
 <h3 align="left">📈 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aakash-Kumar-Sinha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" width="500" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aakash-Kumar-Sinha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" width="500" alt="languages graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aakash-Kumar-Sinha&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
+
+<img src="https://streak-stats.demolab.com?user=Aakash-Kumar-Sinha&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+
 </div>
 
 ---
