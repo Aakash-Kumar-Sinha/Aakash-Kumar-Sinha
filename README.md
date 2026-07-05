@@ -6,7 +6,7 @@
 
 ---
 
-   <h3 align="left">👨‍💻 About Me</h3>
+  <h3 align="left">👨‍💻 About Me</h3>
 
 - 🔭 I’m currently working on [project name](project link)
 
@@ -30,7 +30,7 @@
 
 ---
 
-## <h3 align="left">🛠️ Tech Stacks</h3>
+  <h3 align="left">🛠️ Tech Stacks</h3>
 
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
