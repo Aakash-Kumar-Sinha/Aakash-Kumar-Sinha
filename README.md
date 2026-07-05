@@ -26,8 +26,6 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-###
-
 <h2 align="left">🛠️ Tech Stack</h2>
 
 <div data-importer="techs" align="center">
