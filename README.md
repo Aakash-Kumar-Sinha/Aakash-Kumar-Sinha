@@ -87,11 +87,8 @@
 <h3 align="left">📈 GitHub Stats</h3>
 
 <div align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aakash-Kumar-Sinha&show_icons=true&theme=tokyonight" height="200"/>
-
-<img src="https://streak-stats.demolab.com?user=Aakash-Kumar-Sinha&theme=tokyonight" height="200"/>
-
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aakash-Kumar-Sinha&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://streak-stats.demolab.com?user=Aakash-Kumar-Sinha&theme=tokyonight" width="48%" />
 </div>
 
 ---
