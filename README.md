@@ -88,13 +88,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aakash-Kumar-Sinha&show_icons=true&theme=dracula&hide_border=true" height="150"/>
-
-<img src="https://streak-stats.demolab.com?user=Aakash-Kumar-Sinha&theme=dracula&hide_border=true" height="150"/>
-
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aakash-Kumar-Sinha&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=8" width="48%" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash-Kumar-Sinha-0&theme=tokyonight&hide_border=true&border_radius=8" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash-Kumar-Sinha&theme=tokyonight&hide_border=true&border_radius=8" width="48%" />
 
 </div>
 
