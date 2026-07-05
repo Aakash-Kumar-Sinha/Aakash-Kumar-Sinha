@@ -88,9 +88,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aakash-Kumar-Sinha&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aakash-Kumar-Sinha&show_icons=true&theme=dracula&hide_border=true" height="150"/>
 
-<img src="https://streak-stats.demolab.com?user=Aakash-Kumar-Sinha&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+<img src="https://streak-stats.demolab.com?user=Aakash-Kumar-Sinha&theme=dracula&hide_border=true" height="150"/>
 
 </div>
 
