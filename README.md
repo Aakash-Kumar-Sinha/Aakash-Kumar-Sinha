@@ -88,9 +88,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aakash-Kumar-Sinha&show_icons=true&theme=tokyonight" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aakash-Kumar-Sinha&show_icons=true&theme=default" height="200"/>
 
-<img src="https://streak-stats.demolab.com?user=Aakash-Kumar-Sinha&theme=tokyonight" height="200"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash-Kumar-Sinha&theme=default" height="200"/>
 
 </div>
 
