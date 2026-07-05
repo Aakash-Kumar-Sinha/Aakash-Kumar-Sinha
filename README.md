@@ -82,8 +82,6 @@
   <img src="https://skillicons.dev/icons?i=eclipse" height="60" alt="eclipseide logo"  />
 </div>
 
-###
-
 ---
 
 <h3 align="left">📈 GitHub Stats</h3>
@@ -92,8 +90,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Aakash-Kumar-Sinha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" width="500" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aakash-Kumar-Sinha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" width="500" alt="languages graph"  />
 </div>
-
-###
 
 ---
 
@@ -107,5 +103,3 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
 </div>
-
-###
