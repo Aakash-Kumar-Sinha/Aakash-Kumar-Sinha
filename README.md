@@ -26,9 +26,9 @@
 
 - 📄 Know about my experiences [resume link](resume link)
 
----
-
 - ⚡ Fun fact **I think I am funny**
+
+---
 
 ## <h3 align="left">🛠️ Tech Stacks</h3>
 
