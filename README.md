@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C233&width=400&lines=Passionate+Full+Stack+Developer;Programming+Enthusiast+from+India;Building+Modern+Web+Applications"alt="Typing SVG"/>
 </div>
 
-<h2 align="left">👨‍💻 About Me</h2>
+## <h3 align="left">👨‍💻 About Me</h3>
 
 - 🔭 I’m currently working on [project name](project link)
 
@@ -26,7 +26,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<h2 align="left">🛠️ Tech Stack</h2>
+## <h3 align="left">🛠️ Tech Stacks</h3>
 
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
@@ -80,7 +80,7 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats</h2>
+## <h3 align="left">📈 Github Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aakash-Kumar-Sinha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" width="500" alt="stats graph"  />
