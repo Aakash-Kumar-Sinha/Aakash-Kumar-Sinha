@@ -8,19 +8,25 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on improving my coding skills and learning new technologies.
+- 🔭 I’m currently working on [project name](project link)
 
-- 🌱 I’m currently learning **JAVA Full Stack and Data Structures & Algorithms (DSA)**
+- 🌱 I’m currently learning **Frameworks, courses etc.**
 
-- 👯 I’m looking forward to collaborating on open-source projects.
+- 👯 I’m looking to collaborate on [project name](project link)
 
-- 🤝 I’m looking for help to improve my coding skills.
+- 🤝 I’m looking for help with [project name](project link)
 
-- 💬 Ask me about **JAVA Full Stack, DSA, or web development!**
+- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
 
-- 📫 How to reach me kaakash228@gmail.com
+- 📝 I regularly write articles on [blog link](blog link)
 
-- ⚡ Fun fact: I enjoy learning new technologies and turning ideas into real projects.
+- 💬 Ask me about **react, vue and gsap.**
+
+- 📫 How to reach me **example@gmail.com**
+
+- 📄 Know about my experiences [resume link](resume link)
+
+- ⚡ Fun fact **I think I am funny**
 
 ## <h3 align="left">🌐 Connect With Me</h3> 
 
