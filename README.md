@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C233&width=400&lines=Passionate+Full+Stack+Developer;Programming+Enthusiast+from+India;Building+Modern+Web+Applications"alt="Typing SVG"/>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aakash-Kumar-Sinha&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Aakash-Kumar-Sinha" />
-</div>
-
-
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working on improving my coding skills and learning new technologies.
