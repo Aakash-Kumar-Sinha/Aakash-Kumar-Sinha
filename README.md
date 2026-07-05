@@ -86,12 +86,10 @@
 
 <h3 align="left">📈 GitHub Stats</h3>
 
-<div align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aakash-Kumar-Sinha&show_icons=true&count_private=true&theme=Dracula&hide_border=true&border_radius=8" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash-Kumar-Sinha&theme=Dracula&hide_border=true&border_radius=8" width="48%" />
-
+<div data-importer="stats" align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Aakash-Kumar-Sinha&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr&hide_border=true" height="250"/>
+  <img src="https://streak-stats.demolab.com?user=Aakash-Kumar-Sinha&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"/>
 </div>
 
 ---
