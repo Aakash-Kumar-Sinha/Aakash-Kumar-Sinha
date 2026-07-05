@@ -69,13 +69,13 @@
 ###
 
 <div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="80" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="180" alt="git logo"  />
   <img width="24" />
-  <img src="https://skillicons.dev/icons?i=github" height="80" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="180" alt="github logo"  />
   <img width="24" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="80" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="180" alt="vscode logo"  />
   <img width="24" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="80" alt="eclipseide logo"  />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="180" alt="eclipseide logo"  />
 </div>
 
 ###
