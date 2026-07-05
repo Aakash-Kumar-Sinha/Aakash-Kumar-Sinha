@@ -1,7 +1,7 @@
 <p align="center"><img width="80%" alt="Hello, I'm Aakash. I do open source!" src="./assets/readme-banner.png"/></p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C233&width=400&lines=Passionate+Full+Stack+Developer;Programming+Enthusiast+from+India;Building+Modern+Web+Applications"alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C233&width=400&lines=Passionate+Full+Stack+Developer;Programming+Enthusiast+from+India;Building+Modern+Web+Applications" alt="Typing SVG"/>
 </div>
 
 ---
