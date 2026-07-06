@@ -10,25 +10,25 @@
 
 <img align="right" alt="Animation" width="350" src="./assets/animation.svg">
 
-- 🔭 I’m currently working on [project name](project link)
+- 🔭 I’m currently working on **Java Full Stack Development with Generative AI & DevOps**
 
-- 🌱 I’m currently learning **Frameworks, courses etc.**
+- 🌱 I’m currently learning **Java, SQL, Spring Boot, React, Generative AI, AWS, Linux, DevOps, and DSA**
 
-- 👯 I’m looking to collaborate on [project name](project link)
+- 👯 I’m looking to collaborate on **Java Full Stack and open-source projects**
 
-- 🤝 I’m looking for help with [project name](project link)
+- 🤝 I’m looking for help with **Spring Boot, DevOps, and backend development concepts**
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 👨‍💻 All of my projects are available on my GitHub profile
 
-- 📝 I regularly write articles on [blog link](blog link)
+- 📝 I regularly share daily learning and practice tasks on GitHub repositories
 
-- 💬 Ask me about **react, vue and gsap.**
+- 💬 Ask me about **Java, SQL, HTML, CSS, JavaScript, Spring Boot, and React**
 
-- 📫 How to reach me **example@gmail.com**
+- 📫 How to reach me **kaakash228@gmail.com**
 
-- 📄 Know about my experiences [resume link](resume link)
+- 📄 Know about my experiences: Check my GitHub profile
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I enjoy building real-world applications and learning new technologies.**
 
 ---
 
