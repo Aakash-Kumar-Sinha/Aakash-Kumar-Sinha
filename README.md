@@ -8,8 +8,6 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-<!-- <img align="right" alt="Animation" width="350" src="./assets/animation.svg"> -->
-
 - 🔭 I’m currently working on **Java Full Stack Development with Generative AI & DevOps**
 
 - 🌱 I’m currently learning **Java, SQL, Spring Boot, React, Generative AI, AWS, Linux, DevOps, and DSA**
